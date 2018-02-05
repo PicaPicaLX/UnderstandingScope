@@ -10,6 +10,7 @@ namespace UnderstandingScope
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
